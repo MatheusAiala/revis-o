@@ -1,12 +1,13 @@
-
-import './app.css'
-import Header from './components/Header'  
+import Header from "./componentes/Header/Header"
+import Body from "./componentes/Body/Body"
+import './App.css'
 
 function App() {
 
   return(
     <>
-      <Header />
+    <Header />
+    <Body />
     </>
   )
   

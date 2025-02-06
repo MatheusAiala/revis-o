@@ -1,0 +1,8 @@
+.container-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:25px;
+    background-color: blanchedalmond;
+    height:100vh - 60px;
+}
